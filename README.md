@@ -1,1 +1,8 @@
-# Projeto pessoal utilizando conceitos de React, React-Router-Dom, React-Redux e React-Bootstrap. 
+# Projeto pessoal utilizando diversas bibliotecas e frameworks.
+
+## Alguns conceitos utilizados na criacao deste projeto.
+- [X] React
+- [X] react-router-dom, 
+- [X] React-Redux,
+- [X] React-Bootstrap,
+- [X] Requisicao a API do MercadoLivre.
