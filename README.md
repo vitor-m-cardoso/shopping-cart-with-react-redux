@@ -1,6 +1,6 @@
-# Projeto pessoal utilizando diversas bibliotecas e frameworks.
+# Projeto carrinho de compras online.
 
-## Alguns conceitos utilizados na criacao deste projeto.
+## Conceitos utilizados para a criação deste projeto.
 - [X] React
 - [X] react-router-dom, 
 - [X] React-Redux,
