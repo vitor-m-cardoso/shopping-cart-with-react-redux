@@ -1,8 +1,12 @@
-# Projeto carrinho de compras online.
+# Boas vindas ao repositório do projeto de Carrinho de Compras!
 
-Conceitos utilizados para a criação deste projeto:
-- [X] React
-- [X] react-router-dom, 
-- [X] React-Redux,
-- [X] React-Bootstrap,
-- [X] Requisicao a API do MercadoLivre.
+## Habilidades desenvolvidas:
+- React;
+- react-router-dom;
+- React-Redux;
+- React-Bootstrap;
+- Trabalhar com funções assíncronas;
+- Fazer requisições a uma API (Application Programming Interface) do Mercado Livre.
+
+## O que foi desenvolvido:
+- Uma pagina web de um carrinho de compras online totalmente dinâmico! Consumindo dados diretamente da API do Mercado Livre para buscar produtos à venda.
