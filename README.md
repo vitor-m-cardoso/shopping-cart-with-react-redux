@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto de Carrinho de Compras!
+# Boas vindas ao repositório do projeto de _Shopping Cart_!
 
 ## Habilidades desenvolvidas:
 - React;
